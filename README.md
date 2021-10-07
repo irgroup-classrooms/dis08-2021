@@ -24,6 +24,7 @@ Each week we will release a set of exercises grouped into assessments. Compile a
 
 1. Create a GitHub account.
 2. Join the corresponding [GitHub Classroom](https://classroom.github.com/a/Nshauyhh).
+3. If you can't find your student id in the classroom's list, please [file an issue](https://github.com/irgroup-classrooms/dis08-2021/issues). I just need your lastname and course of study. No student id in the public list of issues, please.
 
 ### Assignment 1
 
