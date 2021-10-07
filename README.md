@@ -10,7 +10,7 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 
 The following slide sets are available:
 
-* __01 Introduction, Markdown__ [[pdf](DIS08-01-introduction.pdf)] 
+* __01 Introduction, Markdown__ [[pdf](slides/DIS08-01-introduction.pdf)] 
 
 ## Additional materials 
 
