@@ -38,7 +38,7 @@ Please open up an [issue ticket](https://github.com/dis-data-modeling-2020/slide
 
 The following syllabus is an overview on the topics I plan to cover in this semester. Stay tuned!
 
-![syllabus](syllabus.png)
+![syllabus](dis08-2021-schedule.png)
 
 ## Fun
 
