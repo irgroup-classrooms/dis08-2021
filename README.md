@@ -23,15 +23,15 @@ Each week we will release a set of exercises grouped into assessments. Compile a
 
 ### Assignment 1
 
-Assignment 1 is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2020-11-26, 20 pm`. 
+Assignment 1 is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2021-11-26, 20 pm`. 
 
-* [GitHub and Markdown](assignment1.md) (3 points)
+* [GitHub and Markdown](assignments.md) (3 points)
 
 ## Open questions and FAQ in the GitHub discussion forum
 
 Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix. 
 
-Please open up an [issue ticket](https://github.com/dis-data-modeling-2020/slides/issues) in this repository if there are any questions or issues related to the slides, lectures or assignments. I try to keep an [FAQ in the Wiki](https://github.com/dis-data-modeling-2020/slides/wiki) of this GitHub site. Feel free to comment and post you own entries to this FAQ.
+Please open up a [discussion post](discussions) in this repository if there are any questions or issues related to the slides, lectures or assignments. Feel free to comment and post you own entries to this discussion forum.
 
 
 ## Syllabus
