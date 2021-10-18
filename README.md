@@ -31,7 +31,7 @@ Assignment 1 is a personal assignment. Each student has to compile his/her own r
 
 Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix. 
 
-Please open up a [discussion post](discussions) in this repository if there are any questions or issues related to the slides, lectures or assignments. Feel free to comment and post you own entries to this discussion forum.
+Please open up a [discussion post](https://github.com/irgroup-classrooms/dis08-2021/discussions) in this repository if there are any questions or issues related to the slides, lectures or assignments. Feel free to comment and post you own entries to this discussion forum.
 
 
 ## Syllabus
