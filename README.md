@@ -16,7 +16,7 @@ The following slide sets and videos are available. The password for the videos i
 
 ## Assignments
 
-Each week we will release a set of exercises grouped into assessments. Compile all your results into your GitHub repository. We will gather all your results from your repositories on the day of the submission deadlines. You are not required to send anything directly to us.
+You are expected to work on one exercise per week that are compiled into 2 big assignments over the semester. Compile all your results into your GitHub repository. We will gather all your results from your repositories on the day of the submission deadlines. You are not required to send anything directly to us.
 
 1. Create a GitHub account.
 2. Join the corresponding [GitHub Classroom](https://classroom.github.com/a/Nshauyhh).
