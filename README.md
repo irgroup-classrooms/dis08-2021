@@ -23,9 +23,7 @@ Each week we will release a set of exercises grouped into assessments. Compile a
 
 ### Assignment 1
 
-Assignment 1 is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2021-11-26, 20 pm`. 
-
-* [GitHub and Markdown](assignments.md) (3 points)
+[Assignment 1](assignments.md) is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2021-11-26, 20 pm`. All parts of assignment 1 are pre-released so that you can look ahead what's coming up in the next weeks. 
 
 ## Open questions and FAQ in the GitHub discussion forum
 
