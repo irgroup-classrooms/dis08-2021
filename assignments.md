@@ -51,7 +51,7 @@ More on markdown-formatting can be found at this [markdown cheatsheet](https://g
 
 ## Exercise 4: Mine Twitch Data (6 pts)
 
-Download the dataset [`data_twitch.zip`](datasets/data_twitch.zip) and unzip it.
+Download the dataset [`data_twitch.zip`](https://github.com/irgroup-classrooms/dis08-2021/tree/main/datasets/data_twitch.zip) and unzip it.
 
 The dataset consists of chat logs of the streaming platform twitch.tv.
 
@@ -79,7 +79,7 @@ Push all commits to your repository.
 
 ## Exercise 5: Clean-up Disney Plus (8 pts)
 
-In this exercise, you will be working with the dataset [`disney_plus_titles.csv`](datasets/disney_plus_titles.csv). The original data set can be found on [Kaggle](https://www.kaggle.com/shivamb/disney-movies-and-tv-shows?select=disney_plus_titles.csv). 
+In this exercise, you will be working with the dataset [`disney_plus_titles.csv`](https://github.com/irgroup-classrooms/dis08-2021/tree/main/datasets/disney_plus_titles.csv). The original data set can be found on [Kaggle](https://www.kaggle.com/shivamb/disney-movies-and-tv-shows?select=disney_plus_titles.csv). 
 
 1. Document and describe the different data fields. (1 point)
 2. Identify "dirty" data fields and clean them up. Use regex replace, spreadsheets or whatever you like, if you think it is required. Document your working steps in a file `exercise05.md`. Export your data set as a clean TSV file. Add both files to your repository. (2 points)
