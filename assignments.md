@@ -11,7 +11,7 @@ Inside the file, first enter the following information:
 * **Name**: {your name here}
 * **E-Mail**: {your smail address here}
 
-Then, answer the following questions in a short text:
+Then, answer the following questions in a short text (at least 3 sentences each!):
 
 1. Do you have any prior experience in the field introduced in the introductory session? If so, give a short overview on them.
 2. What expectations or wishes do you have on the data modeling course?
