@@ -2,7 +2,7 @@
 
 ## Exercise 1: Join GitHub Classrooms and Markdown (3 pts)
 
-Create a GitHub account and join the [GitHub classroom](https://classroom.github.com/a/no15MntJ).
+Create a GitHub account and join the [GitHub classroom](https://classroom.github.com/a/Nshauyhh).
 
 Once the cloning process is done create a new file in this repository via the web interface. Use `introduction.md` as file name. For all .md-files of this assignment, use the markdown syntax ([markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 
