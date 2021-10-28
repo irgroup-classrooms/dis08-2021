@@ -8,6 +8,7 @@ The following slide sets and videos are available. The password for the videos i
 
 * __01 Introduction, Markdown__ [[pdf](slides/DIS08-01-introduction.pdf)] [[video](https://th-koeln.sciebo.de/s/oEYxPh1m6ns3nhe)] [[tutorial for gitbash and repository](tutorials/DIS08-01-introduction-gitbash_a1e1.pdf)]
 * __02 The Unix Shell__ [[pdf](slides/DIS08-02-shell.pdf)] [[video]](https://th-koeln.sciebo.de/s/Ffg0t2BdNYp5Xmv)
+* __03 Version Control with Git__ [[pdf](slides/DIS08-03-git-github.pdf)]
 
 ## Additional materials 
 
