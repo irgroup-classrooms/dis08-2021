@@ -9,11 +9,13 @@ The following slide sets and videos are available. The password for the videos i
 * __01 Introduction, Markdown__ [[pdf]](slides/DIS08-01-introduction.pdf) [[video]](https://th-koeln.sciebo.de/s/oEYxPh1m6ns3nhe) [[tutorial for gitbash and repository]](tutorials/DIS08-01-introduction-gitbash_a1e1.pdf)
 * __02 The Unix Shell__ [[pdf]](slides/DIS08-02-shell.pdf) [[video]](https://th-koeln.sciebo.de/s/Ffg0t2BdNYp5Xmv)
 * __03 Version Control with Git and GitHub__ [[pdf]](slides/DIS08-03-git-github.pdf) [[video]](https://th-koeln.sciebo.de/s/qwqAhhebohniZtU)
+* __04 RegEx__ [[pdf]](slides/DIS08-04-regex.pdf)
 
 ## Additional materials 
 
 * [How to clean up Git mess](http://justinhileman.info/article/git-pretty/git-pretty.pdf) - Handy flowchart about how you can get out of some git mess
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) - The most important and commonly used Git commands for easy reference
+* [Sample data for Shell and RegEx testing](shell_lesson.zip)
 
 ## Assignments
 
