@@ -15,7 +15,7 @@ The following slide sets and videos are available. The password for the videos i
 
 * [How to clean up Git mess](http://justinhileman.info/article/git-pretty/git-pretty.pdf) - Handy flowchart about how you can get out of some git mess
 * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) - The most important and commonly used Git commands for easy reference
-* [Sample data for Shell and RegEx testing](shell_lesson.zip)
+* [Sample data for Shell and RegEx testing](datasets/shell_lesson.zip)
 
 ## Assignments
 
