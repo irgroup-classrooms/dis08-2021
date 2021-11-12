@@ -10,7 +10,7 @@ The following slide sets and videos are available. The password for the videos i
 * __02 The Unix Shell__ [[pdf]](slides/DIS08-02-shell.pdf) [[video]](https://th-koeln.sciebo.de/s/Ffg0t2BdNYp5Xmv)
 * __03 Version Control with Git and GitHub__ [[pdf]](slides/DIS08-03-git-github.pdf) [[video]](https://th-koeln.sciebo.de/s/qwqAhhebohniZtU)
 * __04 RegEx__ [[pdf]](slides/DIS08-04-regex.pdf) [[video]](https://th-koeln.sciebo.de/s/fwXtqBc2l35uCFe)
-* __05 Common Data Formats__ [[pdf]](slides/DIS08-05-csv-json-xml.pdf)
+* __05 Common Data Formats__ [[pdf]](slides/DIS08-05-csv-json-xml.pdf) [[video]](https://th-koeln.sciebo.de/s/z0u459U8cqk5foy)
 
 ## Additional materials 
 
