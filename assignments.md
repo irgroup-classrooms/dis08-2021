@@ -57,8 +57,10 @@ The dataset consists of chat logs of the streaming platform twitch.tv.
 
 Write a set of shell commands to do the following things:
 
-1. The first task consists of finding twitch emotes (platform-specific emojis). Print an overview of the number of lines per `.csv` file and in total on the occurence of the terms `kappa` or `trihard`.
-2. Again for all files and in total, search for occurences of `911` or `110` within the pseudo username column.  _Hint: Make use of the `cut` command and its delimeter option._
+1. Twitch Emotes
+ * The first task consists of finding twitch emotes (platform-specific emojis, compare [on twitch emotes](https://www.twitch.tv/creatorcamp/de-de/learn-the-basics/emotes/). Print an overview of the number of lines per `.csv` file with occurrences of the terms `kappa` or `trihard` occures. These are two of the most popular emotes on twitch. Count all lines, in which at least one of those appears. 
+ * In a separate command, count the total number of lines with occurrences across all files. 
+2. Again for all files, search for occurences of `911` or `110` within the pseudo username column.  _Hint: Make use of the `cut` command and its delimeter option._
 3. Count the number of lines that contain a chat message with at least 20 characters in all `.csv` files. _Hint: Check on the correct pattern with `grep`._
 4. Print all usernames appearing in all `.csv` files into a new file `user_list.txt`.
 5. Print an overview of unique usernames in all `.csv` files. _Hint: Make use of the `uniq` command._
