@@ -76,6 +76,7 @@ Additionally, create a text file `exercise04.md` and comment on each solution. T
 
 * copy your commands into the Markdown file,
 * and explain what you did and why.
+* we highly recommend to also show the output produced by the commands.
 
 Push all commits to your repository.
 
