@@ -11,6 +11,7 @@ The following slide sets and videos are available. The password for the videos i
 * __03 Version Control with Git and GitHub__ [[pdf]](slides/DIS08-03-git-github.pdf) [[video]](https://th-koeln.sciebo.de/s/qwqAhhebohniZtU)
 * __04 RegEx__ [[pdf]](slides/DIS08-04-regex.pdf) [[video]](https://th-koeln.sciebo.de/s/fwXtqBc2l35uCFe)
 * __05 Common Data Formats__ [[pdf]](slides/DIS08-05-csv-json-xml.pdf) [[video]](https://th-koeln.sciebo.de/s/z0u459U8cqk5foy)
+* __06 Open Data and the Tidy Data Principle__ [[pdf]](slides/DIS08-06-tidydata.pdf)
 
 ## Additional materials 
 
