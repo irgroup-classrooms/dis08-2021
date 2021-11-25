@@ -70,7 +70,7 @@ Create a file `exercise04.sh` that will contain your solutions to the 6 tasks. B
 
 * First line has to be `#!/bin/bash`
 * Each line contains a command to solve one of the tasks above OR A PART OF THE TASK. Although preferred, you DO NOT have to solvve the tasks in one line!
-* We want to see one commit in GitHub per solution!
+* We want to see one commit in GitHub per solution! (for clarification: JUST one, not one per sub task)
 
 Additionally, create a text file `exercise04.md` and comment on each solution. To do that,
 
