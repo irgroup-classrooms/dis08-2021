@@ -69,7 +69,7 @@ Write a set of shell commands to do the following things:
 Create a file `exercise04.sh` that will contain your solutions to the 6 tasks. Be careful with whitespace characters and restrict your submission to the tasks, there is no bonus points!
 
 * First line has to be `#!/bin/bash`
-* Each line contains the command to solve one of the tasks above.
+* Each line contains a command to solve one of the tasks above OR A PART OF THE TASK. Although preferred, you DO NOT have to solvve the tasks in one line!
 * We want to see one commit in GitHub per solution!
 
 Additionally, create a text file `exercise04.md` and comment on each solution. To do that,
