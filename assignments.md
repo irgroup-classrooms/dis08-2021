@@ -25,7 +25,7 @@ Below the editor, leave the option "Commit directly to the master branch." check
 ### 2.1: Shell Tutorial
 Complete the lessons from the interactive online course at [linuxjourney.com](https://linuxjourney.com/lesson/the-shell) on learning the command line. Do the quizes in each of the lectures.
 
-Prove your completion with a photo that shows your student ID card and the correct results of the quizes. Make at least 3 photos according to the three digits, of your student ID. Subtract these three digits from 10. For example: Your student ID is 1110341 -> Photos of quizes 7, 6, and 9, according to 10-3=7, 10-4=6, and 10-1=9. In case this rule of thumb does not work, calculate the sum of the double digits or last two digits. For example: Your student ID is 1110288 -> Photos of 8, 2 and 16 (8+8). 
+Prove your completion with a photo that shows your student ID card and the correct results of the quizes. Make at least 3 photos according to the last three digits, of your student ID. Subtract these three digits from 10. For example: Your student ID is 1110341 -> Photos of quizes 7, 6, and 9, according to 10-3=7, 10-4=6, and 10-1=9. In case this rule of thumb does not work, calculate the sum of the double digits or last two digits. For example: Your student ID is 1110288 -> Photos of 8, 2 and 16 (8+8). 
 
 ### 2.2: Count the Lines
 Use your new knowledge to count the number of lines in your `introduction.md` file from exercise 1.
