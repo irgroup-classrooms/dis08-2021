@@ -94,3 +94,22 @@ In this exercise, you will be working with the dataset [`disney_plus_titles.csv`
     * How many movies with a play time of more than two hours can be found on Disney Plus? (1p)
 
 Documentation is key! Everything that is **not properly documented** is not verifyable by us and will thus get **0 points**. Do not overdo your documentation either- we do not want to know about every click you performed! Complete and concise, please!
+
+# Assignment 2
+
+Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. 
+When your team forming process is done, join the [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl) for assignment 2. Your team can then collaborate via GitHub.
+
+## Exercise 1 (4pts)
+
+We continue with the Disney Plus data set and try to reproduce some of the exercises we did with shell and grep. Work with [Pandas](https://pandas.pydata.org/) when not stated otherwise! We will talk about Pandas in the upcomming weeks.
+
+0. Read chapter 8 to learn more about reading and writing files. I skipped a lot of details.
+1. Write a Python program: Read the Disney Plus data as a Pandas Dataframe.
+2. Make your program extract a full list of all genre names that are listed in column "listed_in". Make sure to extract only the genres and clean the data from non-letter characters if necessary. Save as a list.
+3. Extend your program to count the distinct (unique) genre names. 
+4. Next, find how many entries in the disney plus catalog belong to each of the genres. Save the genres and corresponding counts in a dictionary. 
+5. Write the results in a new CSV file that contains the genres and the counts. 
+6. Count, save in a dictionary and export as a csv (like in 1-4) the occurances of the terms "Disney" and "Marvel" in the column description. Think about different name variations (like uppercase, etc.).
+
+Commit your Python program and the resulting CSV files. 
