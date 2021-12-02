@@ -1,6 +1,6 @@
 # Assignment 1
 
-## Exercise 1: Join GitHub Classrooms and Markdown (3 pts)
+## Exercise 1: Join GitHub Classrooms and Markdown (6 pts)
 
 Create a GitHub account and join the [GitHub classroom](https://classroom.github.com/a/Nshauyhh).
 
@@ -20,7 +20,7 @@ Make use of some Markdown formatting like headings and lists when answering thes
 
 Below the editor, leave the option "Commit directly to the master branch." checked and click "Commit new file".
 
-## Exercise 2: The Unix Shell (3 pts)
+## Exercise 2: The Unix Shell (6 pts)
 
 ### 2.1: Shell Tutorial
 Complete the lessons from the interactive online course at [linuxjourney.com](https://linuxjourney.com/lesson/the-shell) on learning the command line. Do the quizes in each of the lectures.
@@ -36,7 +36,7 @@ To submit your solution, copy the commands and their outputs from the shell (inc
 
 More on markdown-formatting can be found at this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) from `adam-p` or the official [GitHub Guide to Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Exercise 3: Git (5 pts)
+## Exercise 3: Git (10 pts)
 
 1. Clone your own repository into your local file system.
 2. Play around with the [git visualization tool](https://git-school.github.io/visualizing-git/) shown in the lecture. Create at least 5 commits, branches and tags there and watch the graph grow. (Hint: Typing help will show you all the available commands.)
@@ -49,7 +49,7 @@ More on markdown-formatting can be found at this [markdown cheatsheet](https://g
   * Finally, push your changes to the remote repository.
 5. Visit your repository on GitHub to verify that your new file is present. 
 
-## Exercise 4: Mine Twitch Data (6 pts)
+## Exercise 4: Mine Twitch Data (12 pts)
 
 Download the dataset [`data_twitch.zip`](https://github.com/irgroup-classrooms/dis08-2021/tree/main/datasets/data_twitch.zip) and unzip it.
 
@@ -80,7 +80,7 @@ Additionally, create a text file `exercise04.md` and comment on each solution. T
 
 Push all commits to your repository.
 
-## Exercise 5: Clean-up Disney Plus (8 pts)
+## Exercise 5: Clean-up Disney Plus (16 pts)
 
 In this exercise, you will be working with the dataset [`disney_plus_titles.csv`](https://github.com/irgroup-classrooms/dis08-2021/tree/main/datasets/disney_plus_titles.csv). The original data set can be found on [Kaggle](https://www.kaggle.com/shivamb/disney-movies-and-tv-shows?select=disney_plus_titles.csv). 
 
@@ -100,7 +100,7 @@ Documentation is key! Everything that is **not properly documented** is not veri
 Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. 
 When your team forming process is done, join the [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl) for assignment 2. Your team can then collaborate via GitHub.
 
-## Exercise 1 (4pts)
+## Exercise 1 (8 pts)
 
 We continue with the Disney Plus data set and try to reproduce some of the exercises we did with shell and grep. Work with [Pandas](https://pandas.pydata.org/) when not stated otherwise! We will talk about Pandas in the upcomming weeks.
 
