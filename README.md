@@ -23,13 +23,25 @@ The following slide sets and videos are available. The password for the videos i
 
 You are expected to work on one exercise per week that are compiled into 2 big assignments over the semester. Compile all your results into your GitHub repository. We will gather all your results from your repositories on the day of the submission deadlines. You are not required to send anything directly to us.
 
-1. Create a GitHub account.
-2. Join the corresponding [GitHub Classroom](https://classroom.github.com/a/Nshauyhh).
-3. If you can't find your student id in the classroom's list, please [file an issue](https://github.com/irgroup-classrooms/dis08-2021/issues). I just need your lastname and course of study. No student id in the public list of issues, please.
-
 ### Assignment 1
 
+1. Create a GitHub account.
+2. Join the corresponding [GitHub Classroom Assignment](https://classroom.github.com/a/Nshauyhh).
+3. If you can't find your student id in the classroom's list, please [file an issue](https://github.com/irgroup-classrooms/dis08-2021/issues). I just need your lastname and course of study. No student id in the public list of issues, please.
+
 [Assignment 1](assignments.md) is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2021-11-26, 20 pm`. All parts of assignment 1 are pre-released so that you can look ahead what's coming up in the next weeks. 
+
+### Assignment 2
+
+In this [assignment 2](assignments.md), you will work together in groups on a larger project that builds over several weeks. 
+The project will focus on getting data from the web, cleaning and writing data in Python.
+The exercises will be posted in GitHub as usual.
+
+1. Form a team of 3-4 students. 
+2. Join the 2nd assignment in our [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl).
+3. Work on the group assignments, week by week.
+
+The submission deadline is `2022-02-04, 20:00:00`.
 
 ## Open questions and FAQ in the GitHub discussion forum
 
