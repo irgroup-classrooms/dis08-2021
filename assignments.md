@@ -1,8 +1,10 @@
 # Assignment 1
 
+This is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2021-11-26, 20 pm`. All parts of assignment 1 are pre-released so that you can look ahead what's coming up in the next weeks. 
+
 ## Exercise 1: Join GitHub Classrooms and Markdown (6 pts)
 
-Create a GitHub account and join the [GitHub classroom](https://classroom.github.com/a/Nshauyhh).
+Create a GitHub account and join the [GitHub classroom](https://classroom.github.com/a/Nshauyhh). If you can't find your student id in the classroom's list, please [file an issue](https://github.com/irgroup-classrooms/dis08-2021/issues). I just need your lastname and course of study. No student id in the public list of issues, please.
 
 Once the cloning process is done create a new file in this repository via the web interface. Use `introduction.md` as file name. For all .md-files of this assignment, use the markdown syntax ([markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 
@@ -97,8 +99,14 @@ Documentation is key! Everything that is **not properly documented** is not veri
 
 # Assignment 2
 
+In this assignment, you will work together in groups on a larger project that builds over several weeks. 
+The project will focus on getting data from the web, cleaning and writing data in Python.
+The exercises will be posted in GitHub as usual.
+
 Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. 
-When your team forming process is done, join the [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl) for assignment 2. Your team can then collaborate via GitHub.
+When your team forming process is done, join the [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl) for assignment 2. Your team can then collaborate via GitHub in its own repository.
+
+The submission deadline is `2022-02-04, 20:00:00`.
 
 ## Exercise 1 (8 pts)
 
