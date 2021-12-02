@@ -33,7 +33,7 @@ You are expected to work on one exercise per week that are compiled into 2 big a
 
 ### Assignment 2
 
-In this [assignment 2](assignments.md), you will work together in groups on a larger project that builds over several weeks. 
+In this [assignment 2](assignments.md##assignment-2), you will work together in groups on a larger project that builds over several weeks. 
 The project will focus on getting data from the web, cleaning and writing data in Python.
 The exercises will be posted in GitHub as usual.
 
