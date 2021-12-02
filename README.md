@@ -37,8 +37,8 @@ In this [assignment 2](assignments.md), you will work together in groups on a la
 The project will focus on getting data from the web, cleaning and writing data in Python.
 The exercises will be posted in GitHub as usual.
 
-1. Form a team of 3-4 students. 
-2. Join the 2nd assignment in our [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl).
+1. Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. 
+2. When your team forming process is done, join the [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl) for assignment 2. Your team can then collaborate via GitHub.
 3. Work on the group assignments, week by week.
 
 The submission deadline is `2022-02-04, 20:00:00`.
