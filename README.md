@@ -23,25 +23,9 @@ The following slide sets and videos are available. The password for the videos i
 
 You are expected to work on one exercise per week that are compiled into 2 big assignments over the semester. Compile all your results into your GitHub repository. We will gather all your results from your repositories on the day of the submission deadlines. You are not required to send anything directly to us.
 
-### Assignment 1
+- [Assignment 1 (personal)](assignments.md)
+- [Assignment 2 (group)](assignments.md#assignment-2)
 
-1. Create a GitHub account.
-2. Join the corresponding [GitHub Classroom Assignment](https://classroom.github.com/a/Nshauyhh).
-3. If you can't find your student id in the classroom's list, please [file an issue](https://github.com/irgroup-classrooms/dis08-2021/issues). I just need your lastname and course of study. No student id in the public list of issues, please.
-
-[Assignment 1](assignments.md) is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2021-11-26, 20 pm`. All parts of assignment 1 are pre-released so that you can look ahead what's coming up in the next weeks. 
-
-### Assignment 2
-
-In this [assignment 2](assignments.md##assignment-2), you will work together in groups on a larger project that builds over several weeks. 
-The project will focus on getting data from the web, cleaning and writing data in Python.
-The exercises will be posted in GitHub as usual.
-
-1. Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. 
-2. When your team forming process is done, join the [GitHub Classroom](https://classroom.github.com/a/Dmj2sFOl) for assignment 2. Your team can then collaborate via GitHub.
-3. Work on the group assignments, week by week.
-
-The submission deadline is `2022-02-04, 20:00:00`.
 
 ## Open questions and FAQ in the GitHub discussion forum
 
