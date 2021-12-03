@@ -12,6 +12,7 @@ The following slide sets and videos are available. The password for the videos i
 * __04 RegEx__ [[pdf]](slides/DIS08-04-regex.pdf) [[video]](https://th-koeln.sciebo.de/s/fwXtqBc2l35uCFe)
 * __05 Common Data Formats__ [[pdf]](slides/DIS08-05-csv-json-xml.pdf) [[video]](https://th-koeln.sciebo.de/s/z0u459U8cqk5foy)
 * __06 Open Data and the Tidy Data Principle__ [[pdf]](slides/DIS08-06-tidydata.pdf) [[video]](https://th-koeln.sciebo.de/s/DoqxR3pgZbJFpmN) [[tutorial: Assignment Questions and Help]](tutorials/DIS08-05-Tutorial-AssignmentHelp.pdf)
+* __07 Python - Basic Data Processing__ [[pdf]](slides/DIS08-07-python-data.pdf) [[video]](https://th-koeln.sciebo.de/s/YxH7ohE9imB8Hmz)
 
 ## Additional materials 
 
