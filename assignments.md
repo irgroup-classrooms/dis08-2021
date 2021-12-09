@@ -125,7 +125,7 @@ Commit your Python program and the resulting CSV files.
 ## Exercise 2 
 
 ### Data transfer (6 pts)
-Your task is to transform a dataset on pokemon. Download the dataset [`pokemon.json`](pokemon.json) from our Github repository. Write a Python program to:
+Your task is to transform a dataset on pokemon. Download the dataset [`pokemon.json`](https://github.com/irgroup-classrooms/dis08-2021/blob/main/datasets/pokemon.json) from our Github repository. Write a Python program to:
 
 1. Read in the data from the JSON file,
 2. Count for each Pokemon type, how many Pokemon of this type exist.
