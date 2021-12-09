@@ -121,3 +121,24 @@ We continue with the Disney Plus data set and try to reproduce some of the exerc
 6. Count, save in a dictionary and export as a csv (like in 1-4) the occurances of the terms "Disney" and "Marvel" in the column description. Think about different name variations (like uppercase, etc.).
 
 Commit your Python program and the resulting CSV files. 
+
+## Exercise 2 
+
+### Data transfer (6 pts)
+Your task is to transform a dataset on pokemon. Download the dataset [`pokemon.json`](pokemon.json) from our Github repository. Write a Python program to:
+
+1. Read in the data from the JSON file,
+2. Count for each Pokemon type, how many Pokemon of this type exist.
+3. Count, how many pokemon of each type have each other type and save as a Pandas dataframe. Create a CSV file where for each type, the counts for each other type are listed. The "same type fields", e.g. grass/grass, water/water etc. should count, how many pokemon havve only this type and no other types. 
+
+Make sure to name your columns, your final CSV could look something like this:
+
+type|Grass|Water|Fire|...
+-----|------|----------|--------|---
+Grass|17|3|0|...
+Water|3|22|...|...
+Fire|0|...|...|...
+...|...|...|...|...
+
+### InfoViz (5 pts)
+Create some interesting figures (in spreadsheet software, with R or any other visualitation software you know) on the pokemon data. You can even draw it by hand and take a photo - As long as the data is derived from the pokemon data, it's fine. If something you have seen somewhere else inspired you, please cite accordingly! There is no shame in inspiration, just be fair and cite your sources! 
