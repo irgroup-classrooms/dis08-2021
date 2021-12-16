@@ -124,7 +124,7 @@ Commit your Python program and the resulting CSV files.
 
 ## Exercise 2 
 
-### Data transfer (6 pts)
+### Data transfer (12 pts)
 Your task is to transform a dataset on pokemon. Download the dataset [`pokemon.json`](https://github.com/irgroup-classrooms/dis08-2021/blob/main/datasets/pokemon.json) from our Github repository. Write a Python program to:
 
 1. Read in the data from the JSON file (hint: Try the json module or slightly edit the json file and use Pandas),
@@ -142,3 +142,21 @@ Fire|0|...|...|...
 
 ### InfoViz (5 pts)
 Create some interesting figures (using Python, in spreadsheet software, with R or any other visualitation software you know) on the pokemon data. You can even draw it by hand and take a photo - As long as the data is derived from the pokemon data, it's fine. If something you have seen somewhere else inspired you, please cite accordingly! There is no shame in inspiration, just be fair and cite your sources! 
+
+## Exercise 3 - Scrape the Wikipedia (25 pts) 
+
+In this final assignment, we would like you to develop a little web scraping project. This is the last part of the second assignment for this semester. It includes a lot of the different tools and skills you learned during this semester.
+
+1. Pick a list within the Wikipedia like the [list of sovereign states](https://en.wikipedia.org/wiki/List_of_sovereign_states). Choose some other list on your own, based on your personal interests. The only requirement is that there are other Wikipedia articles linked within the list. If you have taken this course in the past, make sure to choose a different list!
+2. Get all the names and URLs to the corresponding items in the list and export them into a CSV file that has two columns (name and URL).
+3. For every Wikipedia article in the CSV list choose a few attributes from the infobox on the right that you would like to extract (e.g., population, name of the head of state, whatever...). These attributes should have at least a little bit in common with the "source list". Extract this information for every entry in your list. Store this information in an appropriate data structure. Make sure to clean your scraped data if necessary!
+4. Save your scraped information into a JSON file. Try to export *clean* data.
+5. Document your program and development process (in a markdown file). Tell us something about the data you scraped. Why did you choose this data? Can you think of a good use case for this data? As always: Name your files and push everything into your GitHub repository.
+
+### Some hints
+
+* Try to be kind to Wikipedia and yourself. You will most likely generate a lot of web traffic while scraping the same webpage again and again. This stresses the Wikipedia's server and takes a lot of time. Try to use a caching method like the one from [requests-cache](https://pypi.org/project/requests-cache/). Alternatively, you can download the HTML content using your script and then work locally.
+* Try not to solve the whole problem at once. Remember the tactics desribed in the earlier lectures: [Divide and conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm) - Step by step. 
+* Have a look at the two sample projects from [chapter 11](https://automatetheboringstuff.com/chapter11/). They do something similar.
+* A lot of code examples for Beautiful Soup are documented in the [official documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+* Again: Documentation is key! Everything that is **not properly documented** is not verifyable by us and will thus get **0 points**. 
