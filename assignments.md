@@ -153,7 +153,7 @@ In this final exercise, we would like you to develop a little web scraping proje
 4. Save your scraped information into a JSON file. Try to export *clean* data.
 5. Document your program and development process (in a markdown file). Tell us something about the data you scraped. Why did you choose this data? Can you think of a good use case for this data? As always: Name your files and push everything into your GitHub repository.
 
-## BONUS Exercise
+## BONUS Exercise (up to 10 bonus points!)
 You still are not fed up with juggling your data? Do you need some more points? This task is for you! Surprise us with a cool usecase that uses the scraped data (like an info graphic, an interactive browsing interface, a R-based data analysis, ... ) - We will reward your extra work with up to 10 points.
 
 ### Some hints
