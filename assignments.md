@@ -145,13 +145,16 @@ Create some interesting figures (using Python, in spreadsheet software, with R o
 
 ## Exercise 3 - Scrape the Wikipedia (25 pts) 
 
-In this final assignment, we would like you to develop a little web scraping project. This is the last part of the second assignment for this semester. It includes a lot of the different tools and skills you learned during this semester.
+In this final exercise, we would like you to develop a little web scraping project. This is the last part of the second assignment for this semester. It includes a lot of the different tools and skills you learned during this semester.
 
 1. Pick a list within the Wikipedia like the [list of sovereign states](https://en.wikipedia.org/wiki/List_of_sovereign_states). Choose some other list on your own, based on your personal interests. The only requirement is that there are other Wikipedia articles linked within the list. If you have taken this course in the past, make sure to choose a different list!
 2. Get all the names and URLs to the corresponding items in the list and export them into a CSV file that has two columns (name and URL).
 3. For every Wikipedia article in the CSV list choose a few attributes from the infobox on the right that you would like to extract (e.g., population, name of the head of state, whatever...). These attributes should have at least a little bit in common with the "source list". Extract this information for every entry in your list. Store this information in an appropriate data structure. Make sure to clean your scraped data if necessary!
 4. Save your scraped information into a JSON file. Try to export *clean* data.
 5. Document your program and development process (in a markdown file). Tell us something about the data you scraped. Why did you choose this data? Can you think of a good use case for this data? As always: Name your files and push everything into your GitHub repository.
+
+## BONUS Exercise
+You still are not fed up with juggling your data? Do you need some more points? This task is for you! Surprise us with a cool usecase that uses the scraped data (like an info graphic, an interactive browsing interface, a R-based data analysis, ... ) - We will reward your extra work with up to 10 points.
 
 ### Some hints
 
