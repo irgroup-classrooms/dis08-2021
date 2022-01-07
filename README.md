@@ -15,6 +15,7 @@ The following slide sets and videos are available. The password for the videos i
 * __07 Python - Basic Data Processing__ [[pdf]](slides/DIS08-07-python-data.pdf) [[notebook]](slides/DIS08-07-python-data.ipynb) [[video]](https://th-koeln.sciebo.de/s/YxH7ohE9imB8Hmz)
 * __08 Python - Files/CSV and Pandas__ [[notebook-1]](slides/DIS08-08-python-formats.ipynb) [[notebook-2]](slides/DIS08-08-pandas_tutorial.ipynb) [[pdf]](slides/DIS08-08-pandas.pdf) [[video]](https://th-koeln.sciebo.de/s/CWLA9ch1MHzERAl)
 * __09 Python - Web Scraping__ [[notebook]](slides/DIS08-09-webscraping.ipynb) [[video]](https://th-koeln.sciebo.de/s/X6aNpCV9NQwGS7k)
+* __10 Python - Error Handling__ [[notebook]](slides/DIS08-10-error-handling.ipynb)
 
 ## Additional materials 
 
