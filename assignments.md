@@ -118,7 +118,7 @@ We continue with the Disney Plus data set and try to reproduce some of the exerc
 3. Extend your program to count the distinct (unique) genre names. 
 4. Next, find how many entries in the disney plus catalog belong to each of the genres. Save the genres and corresponding counts in a dictionary. 
 5. Write the results in a new CSV file that contains the genres and the counts. 
-6. Count, save in a dictionary and export as a csv the occurances of the terms "Disney" and "Marvel" in the column description. Think about different name variations (like uppercase, etc.).
+6. Count, save in a dictionary and export as a CSV the occurences of the terms "Disney" and "Marvel" in the column "description". Think about different name variations (like uppercase, etc.).
 
 Commit your Python program and the resulting CSV files. 
 
@@ -128,7 +128,7 @@ Commit your Python program and the resulting CSV files.
 Your task is to transform a dataset on pokemon. Download the dataset [`pokemon.json`](https://github.com/irgroup-classrooms/dis08-2021/blob/main/datasets/pokemon.json) from our Github repository. Write a Python program to:
 
 1. Read in the data from the JSON file (hint: Try the json module or slightly edit the json file and use Pandas),
-2. Pokemon have one or more types. Count for each Pokemon type, how many Pokemon of this type exist.
+2. Pokemon have one or more types. Count for each Pokemon type, how many pokemon of this type exist.
 3. Count, how many pokemon of each type have each other type and save as a Pandas dataframe. Create a CSV file where for each type, the counts for each other type are listed. The "same type fields", e.g. grass/grass, water/water etc. should count, how many pokemon have only this type and no other types. 
 
 Make sure to name your columns, your final CSV could look something like this:
