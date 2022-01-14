@@ -29,6 +29,7 @@ You are expected to work on one exercise per week that are compiled into 2 big a
 
 - [Assignment 1 (personal)](assignments.md)
 - [Results of Assignment 1 (password-protected)](https://th-koeln.sciebo.de/s/xA4aiOD8xEmNhcQ)
+- [Updated Results of Assignment 1 (password-protected)](https://th-koeln.sciebo.de/s/hYVDQzuAuIrqRlJ)
 - [Assignment 2 (group)](assignments.md#assignment-2)
 
 
