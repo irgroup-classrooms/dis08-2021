@@ -28,10 +28,8 @@ The following slide sets and videos are available. The password for the videos i
 You are expected to work on one exercise per week that are compiled into 2 big assignments over the semester. Compile all your results into your GitHub repository. We will gather all your results from your repositories on the day of the submission deadlines. You are not required to send anything directly to us.
 
 - [Assignment 1 (personal)](assignments.md)
-- [Results of Assignment 1 (password-protected)](https://th-koeln.sciebo.de/s/xA4aiOD8xEmNhcQ)
-- [Updated Results of Assignment 1 (password-protected)](https://th-koeln.sciebo.de/s/hYVDQzuAuIrqRlJ)
 - [Assignment 2 (group)](assignments.md#assignment-2)
-
+- [Final results of Assignment 1 and 2 (password-protected)](https://th-koeln.sciebo.de/s/xxt5qWyU2WTlxZe)
 
 ## Open questions and FAQ in the GitHub discussion forum
 
